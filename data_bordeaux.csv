@@ -153,3 +153,17 @@ date,heure,type,sous_type,nom,occupe,capacite,taux_saturation
 2026-01-12 15:35:46.533878,15,Mobilité,Parking Centre,Tourny,709,950,74.6
 2026-01-12 15:35:46.533878,15,Mobilité,Parking P+R,Parc-Relais Quatre Chemins,180,396,45.5
 2026-01-12 15:35:46.533878,15,Mobilité,Parking P+R,Parc-Relais Stalingrad,100,120,83.3
+2026-01-12 15:56:04.592980,15,Piscine,Sport,Judaïque - Ouest,49,500,9.8
+2026-01-12 15:56:04.592980,15,Piscine,Sport,Judaïque - Est,0,500,0.0
+2026-01-12 15:56:04.592980,15,Mobilité,Parking Centre,Tourny,699,950,73.6
+2026-01-12 15:56:04.592980,15,Mobilité,Parking Centre,Grands Hommes,208,415,50.1
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais Quatre Chemins,160,396,40.4
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais Stalingrad,98,120,81.7
+2026-01-12 15:56:04.592980,15,Mobilité,Parking Centre,Bourse - Jaures,500,1300,38.5
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais Galin,208,279,74.6
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais Brandenburg,176,211,83.4
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais La Gardette Nord,119,242,49.2
+2026-01-12 15:56:04.592980,15,Mobilité,Parking Centre,Victor Hugo,419,634,66.1
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais Ravezies Le Bouscat,259,366,70.8
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais La Gardette Sud,32,151,21.2
+2026-01-12 15:56:04.592980,15,Mobilité,Parking P+R,Parc-Relais Arlac,-1,393,-0.3
