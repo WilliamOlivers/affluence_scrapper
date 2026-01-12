@@ -1,0 +1,36 @@
+name: Bordeaux Data Scraper
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Tourne toutes les 10 minutes
+  workflow_dispatch:        # Bouton manuel pour tester
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Récupération du code
+        uses: actions/checkout@v3
+
+      - name: Installation de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installation des librairies
+        run: |
+          pip install requests pandas
+
+      - name: Lancement du script
+        run: python main.py
+
+      - name: Sauvegarde des données
+        run: |
+          git config --global user.name "Bordeaux Data Bot"
+          git config --global user.email "bot@github.com"
+          git add data_bordeaux.csv
+          git commit -m "Mise à jour données Bordeaux" || echo "Rien à modifier"
+          git push
