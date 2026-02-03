@@ -12829,3 +12829,17 @@ date,heure,type,sous_type,nom,occupe,capacite,taux_saturation
 2026-02-03 13:42:25.628458,13,Mobilité,Parking P+R,Parc Relais Quatre Chemins,200,396,50.5
 2026-02-03 14:33:33.935581,14,Piscine,Sport,Judaïque - Est,0,500,0.0
 2026-02-03 14:33:33.935581,14,Piscine,Sport,Judaïque - Ouest,-3,500,-0.6
+2026-02-03 15:30:34.126796,15,Piscine,Sport,Judaïque - Est,0,500,0.0
+2026-02-03 15:30:34.126796,15,Piscine,Sport,Judaïque - Ouest,17,500,3.4
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais La Gardette Nord,149,242,61.6
+2026-02-03 15:30:34.126796,15,Mobilité,Parking Centre,Victor Hugo,439,634,69.2
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais Ravezies Le Bouscat,306,366,83.6
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais Galin,258,279,92.5
+2026-02-03 15:30:34.126796,15,Mobilité,Parking Centre,Tourny,749,950,78.8
+2026-02-03 15:30:34.126796,15,Mobilité,Parking Centre,Grands Hommes,269,415,64.8
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais La Gardette Sud,41,151,27.2
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais Stalingrad,115,120,95.8
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais Brandenburg,183,211,86.7
+2026-02-03 15:30:34.126796,15,Mobilité,Parking Centre,Bourse - Jaures,456,1300,35.1
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais Arlac,-1,393,-0.3
+2026-02-03 15:30:34.126796,15,Mobilité,Parking P+R,Parc Relais Quatre Chemins,182,396,46.0
