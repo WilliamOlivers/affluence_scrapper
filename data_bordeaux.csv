@@ -43212,3 +43212,17 @@ date,heure,type,sous_type,nom,occupe,capacite,taux_saturation
 2026-05-02 08:10:38.289393,8,Mobilité,Parking Centre,Bourse - Jaures,275,1300,21.2
 2026-05-02 08:10:38.289393,8,Mobilité,Parking P+R,Parc Relais Arlac,1,393,0.3
 2026-05-02 08:10:38.289393,8,Mobilité,Parking P+R,Parc Relais Stalingrad,11,120,9.2
+2026-05-02 09:35:31.034851,9,Piscine,Sport,Judaïque - Ouest,38,500,7.6
+2026-05-02 09:35:31.034851,9,Piscine,Sport,Judaïque - Est,0,500,0.0
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais Arlac,0,393,0.0
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais Stalingrad,8,120,6.7
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais La Gardette Nord,-1,242,-0.4
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais Ravezies Le Bouscat,86,366,23.5
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais Galin,-2,279,-0.7
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais Brandenburg,0,211,0.0
+2026-05-02 09:35:31.034851,9,Mobilité,Parking Centre,Victor Hugo,394,634,62.1
+2026-05-02 09:35:31.034851,9,Mobilité,Parking Centre,Tourny,337,950,35.5
+2026-05-02 09:35:31.034851,9,Mobilité,Parking Centre,Grands Hommes,224,415,54.0
+2026-05-02 09:35:31.034851,9,Mobilité,Parking Centre,Bourse - Jaures,275,1300,21.2
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais La Gardette Sud,0,151,0.0
+2026-05-02 09:35:31.034851,9,Mobilité,Parking P+R,Parc Relais Quatre Chemins,48,396,12.1
